@@ -1,5 +1,5 @@
 #### icms convertor
-run the code with *.icms file(s) in the same directory
+run the code by
 ```
 py convertor.py
 ```
