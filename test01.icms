@@ -18,7 +18,7 @@ CVisSelect {20 19 {2910 3060 5340 4580} {3 CVisTerminal {21 20 1 {5040 4280 5295
 } "" 0 1}
 CVisEnd {18 17 {2813 6371 5243 7891} {1 CVisTerminal {36 18 0 {3998 6131 4253 6386} 1 2 0 0 0 {1 37} {97 -240} 1}
 } "" 0 1}
-CVisComment {32 {-205 6318 2689 7187} "end the script is no agent available" 6 1}
+CVisComment {32 {-205 6318 2689 7187} "end the script if no agent available" 6 1}
 CVisLabel {34 33 {5989 6441 8419 7961} {0} "" 0 1}
 CVisComment {35 {8601 6494 10931 7625} "route to 11002 if no agent available in the skill group above" 6 1}
 * {31 {-338 2981 2550 4112} "route to the longest awaiting agent(s) within the selected skill group" 6 1}
