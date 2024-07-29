@@ -49,7 +49,7 @@ CVisQueueTarget {44 12 {2895 2460 8505 3990} {4 CVisTerminal {45 44 1 {5573 3690
 } "" 0 1}
 CVisComment {51 {-60 2730 2655 3825} "right click pull down menu opt Queue and select a target Skill Group" 6 1}
 * {52 {9645 1995 12150 3090} "if any agent available in the selected Skill Group, execute this route" 6 1}
-* {53 {915 6345 3600 7690} "if no agent available or finish the requery procedure still nobody to take up the call, end the script below" 6 1}
+* {53 {915 6345 3600 7690} "if no agent available or finish the requery procedure but still nobody to take up the call, end the script below" 6 1}
 } 9 "" 1}
 
 >>>331a1
